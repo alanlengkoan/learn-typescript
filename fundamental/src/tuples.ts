@@ -1,0 +1,1 @@
+let user: [number, string, boolean] = [1, 'alan', true];
